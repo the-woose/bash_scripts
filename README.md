@@ -1,2 +1,5 @@
 # bash_scripts
-executable bash scripts mainly for quality of life improvements
+Executable bash scripts mainly for quality of life improvements.
+
+# run_android_vm.sh :
+Run android virtual machines directly from console. Requires android sdk tools to be installed
